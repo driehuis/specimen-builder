@@ -13,7 +13,7 @@ module.exports = {
 	specimen2: "Construção",
 	specimen3: "Nineteen Eighty-Four, often published as 1984",
 	specimen4:
-		"Doublethink means the power of holding two contradictory beliefs in one’s mind simultaneously, and accepting",
+		"Doublethink means the power of holding two contradictory beliefs in one’s mind simultaneously, and accepting both of them",
 
 	// Setting. These four variables correspond to each block of text in the setting container.
 	setting1: "Everyone has the right to life",

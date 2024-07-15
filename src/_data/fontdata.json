@@ -1,22 +1,47 @@
 [
-	{
-		"name": "STIX Two Text",
-		"selector": "stix-two-text",
-		"style": "Regular"
-	},
-	{
-		"name": "STIX Two Text Italic",
-		"selector": "stix-two-text-italic",
-		"style": "Italic"
-	},
-	{
-		"name": "STIX Two Text Bold",
-		"selector": "stix-two-text-bold",
-		"style": "Bold"
-	},
-	{
-		"name": "STIX Two Text Bold Italic",
-		"selector": "stix-two-text-bold-italic",
-		"style": "Bold Italic"
-	}
+    {
+        "name": "Dinish-Bold",
+        "selector": "dinish-bold",
+        "style": "bold"
+    },
+    {
+        "name": "Dinish-Italic",
+        "selector": "dinish-italic",
+        "style": "italic"
+    },
+    {
+        "name": "Dinish-Regular",
+        "selector": "dinish-regular",
+        "style": "regular"
+    },
+    {
+        "name": "DinishCondensed-Bold",
+        "selector": "dinishcondensed-bold",
+        "style": "bold condensed"
+    },
+    {
+        "name": "DinishCondensed-Italic",
+        "selector": "dinishcondensed-italic",
+        "style": "italic condensed"
+    },
+    {
+        "name": "DinishCondensed-Regular",
+        "selector": "dinishcondensed-regular",
+        "style": "regular condensed"
+    },
+    {
+        "name": "DinishExpanded-Bold",
+        "selector": "dinishexpanded-bold",
+        "style": "bold expanded"
+    },
+    {
+        "name": "DinishExpanded-Italic",
+        "selector": "dinishexpanded-italic",
+        "style": "italic expanded"
+    },
+    {
+        "name": "DinishExpanded-Regular",
+        "selector": "dinishexpanded-regular",
+        "style": "regular expanded"
+    }
 ]
