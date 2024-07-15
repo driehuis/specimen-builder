@@ -25,31 +25,31 @@ module.exports = {
 	metatags: [
 		{
 			property: "og:title",
-			content: ""
+			content: "DINish - A fresh take on a classic typeface"
 		},
 		{
 			property: "og:description",
-			content: ""
+			content: "DINish is a free and open source DIN-style font"
 		},
 		{
 			property: "og:image",
-			content: ""
+			content: "https://fonts.playbeing.com/din-vs-dinish.jpeg"
 		},
 		{
 			property: "og:url",
-			content: ""
+			content: "https://fonts.playbeing.com/dinish/"
 		},
 		{
 			property: "og:site_name",
-			content: ""
+			content: "DINish"
 		},
 		{
 			name: "twitter:card",
-			content: ""
+			content: "summary_large_image"
 		},
 		{
 			name: "twitter:image:alt",
-			content: ""
+			content: "The DINish font"
 		}
 	]
 };
