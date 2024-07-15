@@ -1,46 +1,46 @@
 [
     {
-        "name": "Dinish-Bold",
+        "name": "DINish-Bold",
         "selector": "dinish-bold",
         "style": "bold"
     },
     {
-        "name": "Dinish-Italic",
+        "name": "DINish-Italic",
         "selector": "dinish-italic",
         "style": "italic"
     },
     {
-        "name": "Dinish-Regular",
+        "name": "DINish-Regular",
         "selector": "dinish-regular",
         "style": "regular"
     },
     {
-        "name": "DinishCondensed-Bold",
+        "name": "DINishCondensed-Bold",
         "selector": "dinishcondensed-bold",
         "style": "bold condensed"
     },
     {
-        "name": "DinishCondensed-Italic",
+        "name": "DINishCondensed-Italic",
         "selector": "dinishcondensed-italic",
         "style": "italic condensed"
     },
     {
-        "name": "DinishCondensed-Regular",
+        "name": "DINishCondensed-Regular",
         "selector": "dinishcondensed-regular",
         "style": "regular condensed"
     },
     {
-        "name": "DinishExpanded-Bold",
+        "name": "DINishExpanded-Bold",
         "selector": "dinishexpanded-bold",
         "style": "bold expanded"
     },
     {
-        "name": "DinishExpanded-Italic",
+        "name": "DINishExpanded-Italic",
         "selector": "dinishexpanded-italic",
         "style": "italic expanded"
     },
     {
-        "name": "DinishExpanded-Regular",
+        "name": "DINishExpanded-Regular",
         "selector": "dinishexpanded-regular",
         "style": "regular expanded"
     }

@@ -9,7 +9,7 @@ rm -f src/fonts/*.woff2
 
 find ../dinish/fonts -name '*.woff2' -exec cp -p {} src/fonts/ \;
 
-for font in Dinish-Bold DinishCondensed-Bold DinishCondensed-Italic DinishCondensed-Regular DinishExpanded-Bold DinishExpanded-Italic DinishExpanded-Regular Dinish-Italic Dinish-Regular
+for font in DINish-Bold DINishCondensed-Bold DINishCondensed-Italic DINishCondensed-Regular DINishExpanded-Bold DINishExpanded-Italic DINishExpanded-Regular DINish-Italic DINish-Regular
 do
 	$toolsdir/woff2css src/fonts/$font.woff2 src/css/$font.css
 done
