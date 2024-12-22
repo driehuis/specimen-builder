@@ -1,1 +1,23 @@
-[]
+[
+    {
+        "axis": "wdth",
+        "name": "Width",
+        "min": 75,
+        "max": 125,
+        "default": 100
+    },
+    {
+        "axis": "slnt",
+        "name": "Slant",
+        "min": -12,
+        "max": 0,
+        "default": 0
+    },
+    {
+        "axis": "wght",
+        "name": "Weight",
+        "min": 300,
+        "max": 800,
+        "default": 400
+    }
+]

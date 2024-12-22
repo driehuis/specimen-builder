@@ -1,1 +1,242 @@
-[]
+[
+    {
+        "name": "Condensed Light",
+        "axes": {
+            "wdth": 75,
+            "slnt": 0,
+            "wght": 300
+        }
+    },
+    {
+        "name": "Light",
+        "axes": {
+            "wdth": 100,
+            "slnt": 0,
+            "wght": 300
+        }
+    },
+    {
+        "name": "Expanded Light",
+        "axes": {
+            "wdth": 125,
+            "slnt": 0,
+            "wght": 300
+        }
+    },
+    {
+        "name": "Condensed Regular",
+        "axes": {
+            "wdth": 75,
+            "slnt": 0,
+            "wght": 400
+        }
+    },
+    {
+        "name": "Regular",
+        "axes": {
+            "wdth": 100,
+            "slnt": 0,
+            "wght": 400
+        }
+    },
+    {
+        "name": "Expanded Regular",
+        "axes": {
+            "wdth": 125,
+            "slnt": 0,
+            "wght": 400
+        }
+    },
+    {
+        "name": "Condensed Medium",
+        "axes": {
+            "wdth": 75,
+            "slnt": 0,
+            "wght": 500
+        }
+    },
+    {
+        "name": "Medium",
+        "axes": {
+            "wdth": 100,
+            "slnt": 0,
+            "wght": 500
+        }
+    },
+    {
+        "name": "Expanded Medium",
+        "axes": {
+            "wdth": 125,
+            "slnt": 0,
+            "wght": 500
+        }
+    },
+    {
+        "name": "Condensed SemiBold",
+        "axes": {
+            "wdth": 75,
+            "slnt": 0,
+            "wght": 600
+        }
+    },
+    {
+        "name": "SemiBold",
+        "axes": {
+            "wdth": 100,
+            "slnt": 0,
+            "wght": 600
+        }
+    },
+    {
+        "name": "Expanded SemiBold",
+        "axes": {
+            "wdth": 125,
+            "slnt": 0,
+            "wght": 600
+        }
+    },
+    {
+        "name": "Condensed Bold",
+        "axes": {
+            "wdth": 75,
+            "slnt": 0,
+            "wght": 700
+        }
+    },
+    {
+        "name": "Bold",
+        "axes": {
+            "wdth": 100,
+            "slnt": 0,
+            "wght": 700
+        }
+    },
+    {
+        "name": "Expanded Bold",
+        "axes": {
+            "wdth": 125,
+            "slnt": 0,
+            "wght": 700
+        }
+    },
+    {
+        "name": "Condensed Light Italic",
+        "axes": {
+            "wdth": 75,
+            "slnt": -12,
+            "wght": 300
+        }
+    },
+    {
+        "name": "Light Italic",
+        "axes": {
+            "wdth": 100,
+            "slnt": -12,
+            "wght": 300
+        }
+    },
+    {
+        "name": "Expanded Light Italic",
+        "axes": {
+            "wdth": 125,
+            "slnt": -12,
+            "wght": 300
+        }
+    },
+    {
+        "name": "Condensed Regular Italic",
+        "axes": {
+            "wdth": 75,
+            "slnt": -12,
+            "wght": 400
+        }
+    },
+    {
+        "name": "Regular Italic",
+        "axes": {
+            "wdth": 100,
+            "slnt": -12,
+            "wght": 400
+        }
+    },
+    {
+        "name": "Expanded Regular Italic",
+        "axes": {
+            "wdth": 125,
+            "slnt": -12,
+            "wght": 400
+        }
+    },
+    {
+        "name": "Condensed Medium Italic",
+        "axes": {
+            "wdth": 75,
+            "slnt": -12,
+            "wght": 500
+        }
+    },
+    {
+        "name": "Medium Italic",
+        "axes": {
+            "wdth": 100,
+            "slnt": -12,
+            "wght": 500
+        }
+    },
+    {
+        "name": "Expanded Medium Italic",
+        "axes": {
+            "wdth": 125,
+            "slnt": -12,
+            "wght": 500
+        }
+    },
+    {
+        "name": "Condensed SemiBold Italic",
+        "axes": {
+            "wdth": 75,
+            "slnt": -12,
+            "wght": 600
+        }
+    },
+    {
+        "name": "SemiBold Italic",
+        "axes": {
+            "wdth": 100,
+            "slnt": -12,
+            "wght": 600
+        }
+    },
+    {
+        "name": "Expanded SemiBold Italic",
+        "axes": {
+            "wdth": 125,
+            "slnt": -12,
+            "wght": 600
+        }
+    },
+    {
+        "name": "Condensed Bold Italic",
+        "axes": {
+            "wdth": 75,
+            "slnt": -12,
+            "wght": 700
+        }
+    },
+    {
+        "name": "Bold Italic",
+        "axes": {
+            "wdth": 100,
+            "slnt": -12,
+            "wght": 700
+        }
+    },
+    {
+        "name": "Expanded Bold Italic",
+        "axes": {
+            "wdth": 125,
+            "slnt": -12,
+            "wght": 700
+        }
+    }
+]

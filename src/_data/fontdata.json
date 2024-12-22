@@ -1,47 +1,7 @@
 [
     {
-        "name": "DINish-Bold",
-        "selector": "dinish-bold",
-        "style": "bold"
-    },
-    {
-        "name": "DINish-Italic",
-        "selector": "dinish-italic",
-        "style": "italic"
-    },
-    {
         "name": "DINish-Regular",
         "selector": "dinish-regular",
-        "style": "regular"
-    },
-    {
-        "name": "DINishCondensed-Bold",
-        "selector": "dinishcondensed-bold",
-        "style": "bold condensed"
-    },
-    {
-        "name": "DINishCondensed-Italic",
-        "selector": "dinishcondensed-italic",
-        "style": "italic condensed"
-    },
-    {
-        "name": "DINishCondensed-Regular",
-        "selector": "dinishcondensed-regular",
-        "style": "regular condensed"
-    },
-    {
-        "name": "DINishExpanded-Bold",
-        "selector": "dinishexpanded-bold",
-        "style": "bold expanded"
-    },
-    {
-        "name": "DINishExpanded-Italic",
-        "selector": "dinishexpanded-italic",
-        "style": "italic expanded"
-    },
-    {
-        "name": "DINishExpanded-Regular",
-        "selector": "dinishexpanded-regular",
-        "style": "regular expanded"
+        "style": "unknown"
     }
 ]
