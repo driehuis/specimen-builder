@@ -9,7 +9,7 @@
 	--grey-dark: #666;
 	--text: var(--dark);
 	--background: var(--light);
-	--font-system: "Inter", sans-serif;
+	--font-system: "DINish", sans-serif;
 	--specimen-fallback-font: var(--font-system);
 }
 
