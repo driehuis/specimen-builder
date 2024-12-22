@@ -7,6 +7,7 @@ RUN cd /app \
     && yarn install --pure-lockfile
 
 COPY . /app/
+RUN find /app -exec chown node:node \{\} +
 EXPOSE 3001
-#CMD cd /app && yarn fontdata && yarn build && cp -pr _site /out/
-CMD cd /app && yarn build && cp -pr _site /out/
+USER node
+CMD cd /app && yarn fontdata && yarn build && cp -pr _site /out/
