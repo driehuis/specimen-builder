@@ -2,3 +2,4 @@ src
 out
 .git
 _build_specimen.sh
+Dockerfile
