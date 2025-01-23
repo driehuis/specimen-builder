@@ -8,18 +8,10 @@
         }
     },
     {
-        "name": "Light",
+        "name": "Condensed Italic Light",
         "axes": {
-            "wdth": 100,
-            "slnt": 0,
-            "wght": 300
-        }
-    },
-    {
-        "name": "Expanded Light",
-        "axes": {
-            "wdth": 125,
-            "slnt": 0,
+            "wdth": 75,
+            "slnt": -12,
             "wght": 300
         }
     },
@@ -32,18 +24,10 @@
         }
     },
     {
-        "name": "Regular",
+        "name": "Condensed Italic Regular",
         "axes": {
-            "wdth": 100,
-            "slnt": 0,
-            "wght": 400
-        }
-    },
-    {
-        "name": "Expanded Regular",
-        "axes": {
-            "wdth": 125,
-            "slnt": 0,
+            "wdth": 75,
+            "slnt": -12,
             "wght": 400
         }
     },
@@ -56,18 +40,10 @@
         }
     },
     {
-        "name": "Medium",
+        "name": "Condensed Italic Medium",
         "axes": {
-            "wdth": 100,
-            "slnt": 0,
-            "wght": 500
-        }
-    },
-    {
-        "name": "Expanded Medium",
-        "axes": {
-            "wdth": 125,
-            "slnt": 0,
+            "wdth": 75,
+            "slnt": -12,
             "wght": 500
         }
     },
@@ -80,18 +56,10 @@
         }
     },
     {
-        "name": "SemiBold",
+        "name": "Condensed Italic SemiBold",
         "axes": {
-            "wdth": 100,
-            "slnt": 0,
-            "wght": 600
-        }
-    },
-    {
-        "name": "Expanded SemiBold",
-        "axes": {
-            "wdth": 125,
-            "slnt": 0,
+            "wdth": 75,
+            "slnt": -12,
             "wght": 600
         }
     },
@@ -104,11 +72,219 @@
         }
     },
     {
+        "name": "Condensed Italic Bold",
+        "axes": {
+            "wdth": 75,
+            "slnt": -12,
+            "wght": 700
+        }
+    },
+    {
+        "name": "Condensed Heavy",
+        "axes": {
+            "wdth": 75,
+            "slnt": 0,
+            "wght": 800
+        }
+    },
+    {
+        "name": "Condensed Italic Heavy",
+        "axes": {
+            "wdth": 75,
+            "slnt": -12,
+            "wght": 800
+        }
+    },
+    {
+        "name": "Condensed Black",
+        "axes": {
+            "wdth": 75,
+            "slnt": 0,
+            "wght": 900
+        }
+    },
+    {
+        "name": "Condensed Italic Black",
+        "axes": {
+            "wdth": 75,
+            "slnt": -12,
+            "wght": 900
+        }
+    },
+    {
+        "name": "Light",
+        "axes": {
+            "wdth": 100,
+            "slnt": 0,
+            "wght": 300
+        }
+    },
+    {
+        "name": "Italic Light",
+        "axes": {
+            "wdth": 100,
+            "slnt": -12,
+            "wght": 300
+        }
+    },
+    {
+        "name": "Regular",
+        "axes": {
+            "wdth": 100,
+            "slnt": 0,
+            "wght": 400
+        }
+    },
+    {
+        "name": "Italic Regular",
+        "axes": {
+            "wdth": 100,
+            "slnt": -12,
+            "wght": 400
+        }
+    },
+    {
+        "name": "Medium",
+        "axes": {
+            "wdth": 100,
+            "slnt": 0,
+            "wght": 500
+        }
+    },
+    {
+        "name": "Italic Medium",
+        "axes": {
+            "wdth": 100,
+            "slnt": -12,
+            "wght": 500
+        }
+    },
+    {
+        "name": "SemiBold",
+        "axes": {
+            "wdth": 100,
+            "slnt": 0,
+            "wght": 600
+        }
+    },
+    {
+        "name": "Italic SemiBold",
+        "axes": {
+            "wdth": 100,
+            "slnt": -12,
+            "wght": 600
+        }
+    },
+    {
         "name": "Bold",
         "axes": {
             "wdth": 100,
             "slnt": 0,
             "wght": 700
+        }
+    },
+    {
+        "name": "Italic Bold",
+        "axes": {
+            "wdth": 100,
+            "slnt": -12,
+            "wght": 700
+        }
+    },
+    {
+        "name": "Heavy",
+        "axes": {
+            "wdth": 100,
+            "slnt": 0,
+            "wght": 800
+        }
+    },
+    {
+        "name": "Italic Heavy",
+        "axes": {
+            "wdth": 100,
+            "slnt": -12,
+            "wght": 800
+        }
+    },
+    {
+        "name": "Black",
+        "axes": {
+            "wdth": 100,
+            "slnt": 0,
+            "wght": 900
+        }
+    },
+    {
+        "name": "Italic Black",
+        "axes": {
+            "wdth": 100,
+            "slnt": -12,
+            "wght": 900
+        }
+    },
+    {
+        "name": "Expanded Light",
+        "axes": {
+            "wdth": 125,
+            "slnt": 0,
+            "wght": 300
+        }
+    },
+    {
+        "name": "Expanded Italic Light",
+        "axes": {
+            "wdth": 125,
+            "slnt": -12,
+            "wght": 300
+        }
+    },
+    {
+        "name": "Expanded Regular",
+        "axes": {
+            "wdth": 125,
+            "slnt": 0,
+            "wght": 400
+        }
+    },
+    {
+        "name": "Expanded Italic Regular",
+        "axes": {
+            "wdth": 125,
+            "slnt": -12,
+            "wght": 400
+        }
+    },
+    {
+        "name": "Expanded Medium",
+        "axes": {
+            "wdth": 125,
+            "slnt": 0,
+            "wght": 500
+        }
+    },
+    {
+        "name": "Expanded Italic Medium",
+        "axes": {
+            "wdth": 125,
+            "slnt": -12,
+            "wght": 500
+        }
+    },
+    {
+        "name": "Expanded SemiBold",
+        "axes": {
+            "wdth": 125,
+            "slnt": 0,
+            "wght": 600
+        }
+    },
+    {
+        "name": "Expanded Italic SemiBold",
+        "axes": {
+            "wdth": 125,
+            "slnt": -12,
+            "wght": 600
         }
     },
     {
@@ -120,123 +296,43 @@
         }
     },
     {
-        "name": "Condensed Light Italic",
-        "axes": {
-            "wdth": 75,
-            "slnt": -12,
-            "wght": 300
-        }
-    },
-    {
-        "name": "Light Italic",
-        "axes": {
-            "wdth": 100,
-            "slnt": -12,
-            "wght": 300
-        }
-    },
-    {
-        "name": "Expanded Light Italic",
-        "axes": {
-            "wdth": 125,
-            "slnt": -12,
-            "wght": 300
-        }
-    },
-    {
-        "name": "Condensed Regular Italic",
-        "axes": {
-            "wdth": 75,
-            "slnt": -12,
-            "wght": 400
-        }
-    },
-    {
-        "name": "Regular Italic",
-        "axes": {
-            "wdth": 100,
-            "slnt": -12,
-            "wght": 400
-        }
-    },
-    {
-        "name": "Expanded Regular Italic",
-        "axes": {
-            "wdth": 125,
-            "slnt": -12,
-            "wght": 400
-        }
-    },
-    {
-        "name": "Condensed Medium Italic",
-        "axes": {
-            "wdth": 75,
-            "slnt": -12,
-            "wght": 500
-        }
-    },
-    {
-        "name": "Medium Italic",
-        "axes": {
-            "wdth": 100,
-            "slnt": -12,
-            "wght": 500
-        }
-    },
-    {
-        "name": "Expanded Medium Italic",
-        "axes": {
-            "wdth": 125,
-            "slnt": -12,
-            "wght": 500
-        }
-    },
-    {
-        "name": "Condensed SemiBold Italic",
-        "axes": {
-            "wdth": 75,
-            "slnt": -12,
-            "wght": 600
-        }
-    },
-    {
-        "name": "SemiBold Italic",
-        "axes": {
-            "wdth": 100,
-            "slnt": -12,
-            "wght": 600
-        }
-    },
-    {
-        "name": "Expanded SemiBold Italic",
-        "axes": {
-            "wdth": 125,
-            "slnt": -12,
-            "wght": 600
-        }
-    },
-    {
-        "name": "Condensed Bold Italic",
-        "axes": {
-            "wdth": 75,
-            "slnt": -12,
-            "wght": 700
-        }
-    },
-    {
-        "name": "Bold Italic",
-        "axes": {
-            "wdth": 100,
-            "slnt": -12,
-            "wght": 700
-        }
-    },
-    {
-        "name": "Expanded Bold Italic",
+        "name": "Expanded Italic Bold",
         "axes": {
             "wdth": 125,
             "slnt": -12,
             "wght": 700
+        }
+    },
+    {
+        "name": "Expanded Heavy",
+        "axes": {
+            "wdth": 125,
+            "slnt": 0,
+            "wght": 800
+        }
+    },
+    {
+        "name": "Expanded Italic Heavy",
+        "axes": {
+            "wdth": 125,
+            "slnt": -12,
+            "wght": 800
+        }
+    },
+    {
+        "name": "Expanded Black",
+        "axes": {
+            "wdth": 125,
+            "slnt": 0,
+            "wght": 900
+        }
+    },
+    {
+        "name": "Expanded Italic Black",
+        "axes": {
+            "wdth": 125,
+            "slnt": -12,
+            "wght": 900
         }
     }
 ]
